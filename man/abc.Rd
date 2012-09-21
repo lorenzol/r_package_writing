@@ -5,11 +5,11 @@
   abc(a, b, c)
 }
 \arguments{
-  \item{a}{}
+  \item{a}{quadratic coefficient}
 
-  \item{b}{}
+  \item{b}{linear coefficient}
 
-  \item{c}{}
+  \item{c}{constant}
 }
 \value{
   root
