@@ -1,9 +1,10 @@
 #' abc for R
+#' Return one of the roots of a 
+#' quadratic equation
 #' 
-#' 
-#' @param a 
-#' @param b
-#' @param c
+#' @param a quadratic coefficient
+#' @param b linear coefficient
+#' @param c constant
 #' @return root
 #' @export
 abc <- function(a,b,c){
